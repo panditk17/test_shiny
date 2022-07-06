@@ -1,4 +1,5 @@
-## codes to test r shiny app
+## first simple codes to test r shiny app
+## July 2022
 
 library(shiny)
 ui <- fluidPage(
