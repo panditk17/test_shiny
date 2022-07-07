@@ -1,3 +1,5 @@
+## Simple code of rshiny application in r
+
 library(shiny)
 # ui <- fluidPage(
 #   sliderInput(input="x", label = "If x is", min = 1, max = 50, value = 30),
