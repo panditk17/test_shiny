@@ -1,4 +1,5 @@
 ## Simple code of rshiny application in r
+## K Pandit
 
 library(shiny)
 # ui <- fluidPage(
